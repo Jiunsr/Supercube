@@ -1,1 +1,0 @@
-Program Rubik's Cube.
