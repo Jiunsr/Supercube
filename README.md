@@ -1,1 +1,1 @@
-# Supercube
+Program Rubik's Cube.
